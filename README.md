@@ -20,13 +20,15 @@ Most people feel really attached to one programming language or stack. Don't get
 [Source](https://www.youtube.com/watch?v=E8-e-3fRHBw)
 ## Fail fast, to win in the future
 
-> You want the airplane to fail on the ground. [Guillermo Blasco](https://www.linkedin.com/in/guillermoblascojimenez/)
+> You want the airplane to fail on the ground.  
+\- [Guillermo Blasco](https://www.linkedin.com/in/guillermoblascojimenez/)
 
 Usually there are problems that you don't expect. The best way to solve these is to encounter them as quick as possible so you have time to react.
 
 ## Iterate, iterate, iterate...
 
-If you want to build a car, you don't start creating the pieces separately, you start with an skateboard. 
+> If you want to build a car, you don't start creating the pieces separately, you start with a skateboard.  
+\- [Pol Arroyo](https://www.linkedin.com/in/pol-arroyo-cera/)
 
 I'm not saying that you should have everything setup from day one. What I'm saying is that you should have **everything necessary**.
 
